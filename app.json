@@ -26,5 +26,6 @@
     "addons": [
         "heroku-postgresql"
     ],
-    "image": "heroku/php"
+    "image": "heroku/php",
+    "stack": "heroku-16"
 }
